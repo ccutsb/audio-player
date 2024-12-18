@@ -1,6 +1,6 @@
 package com.aluracursos.audioplayer.modelos;
 
-public class Canciones {
+public class Cancion extends Audio {
     private String album;
     private String cantante;
     private String genero;
