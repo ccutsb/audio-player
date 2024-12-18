@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee1ac27-4c80-4c74-9df2-3952ee559481" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/modelos/MisFavoritos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/modelos/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/modelos/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/audioplayer/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
